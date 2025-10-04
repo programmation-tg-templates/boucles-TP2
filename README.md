@@ -1,4 +1,4 @@
-# Boucles - TP2
+# Boucles - TP2 - Carré d'étoiles
 
 ## Consignes
 
