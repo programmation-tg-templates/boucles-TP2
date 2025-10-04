@@ -3,7 +3,7 @@
 ## Consignes
 
 Ecrire une fonction qui permet de construire une chaîne de caractère constituée de `n` lignes contenant chacunes `n` étoiles (le caractère `*`).
-Le nombre `n` est le paramètre de la fonction.
+Le nombre `n` est le paramètre de la fonction `boucle2`.
 
 ## Astuce
 
